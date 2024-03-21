@@ -5,6 +5,7 @@
 
 body{
     margin: 0px;
+    
 }
 header > h1{
     background-color: black;
@@ -43,15 +44,59 @@ header > p > a{
 
 header> p >a:hover{
     text-decoration: underline;
+    
 }
 
 .branca{
-    background-color: grey;
     color: black;
     font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
     font-size: 4em;
     margin: 0px;
+    padding:10px 0px 90px 30px ;
+}
+#girasol {
+    background-image: url(../imagens/background001.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding:10px 0px 90px 30px ;
+    
+}
+.imagem > p{
+    background-color:rgba(0, 0, 0, 0.555);
+    display: inline-block;
+    padding: 20px 20px 20px 2px;
+    border-radius: 15px;
+    color: white;
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4em;
+}
+#livro{
+    background-image: url(../imagens/background002.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding:10px 0px 90px 30px ;
+}
+footer > p{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0px;
+}
+footer > p > a{
+    text-decoration: none;
+    color: white;
+}
+footer > p > a:hover{
+    text-decoration: underline;
+    
 }
 
