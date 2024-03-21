@@ -62,7 +62,6 @@ header> p >a:hover{
     background-repeat: no-repeat;
     margin: 0px;
     padding:10px 0px 90px 30px ;
-    
 }
 .imagem > p{
     background-color:rgba(0, 0, 0, 0.555);
@@ -97,6 +96,5 @@ footer > p > a{
 }
 footer > p > a:hover{
     text-decoration: underline;
-    
 }
 
