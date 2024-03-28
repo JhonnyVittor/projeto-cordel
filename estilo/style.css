@@ -63,6 +63,7 @@ font-size: 3vw;
     font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
+    font-style: italic;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.438);
     
     
@@ -83,6 +84,7 @@ font-size: 3vw;
     font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
+    font-style: italic;
     text-shadow: 1px 1px 0px black;
     
 }
