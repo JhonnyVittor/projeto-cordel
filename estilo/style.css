@@ -57,18 +57,22 @@ padding-left: 30px;
 font-size: 3vw;
 }
 
+
 .branca{
     color: black;
     font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.438);
     
     
 }
 #girasol {
     background-image: url(../imagens/background001.jpg);
+    background-position: right center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: cover;
     
 }
 .imagem > p{
@@ -79,13 +83,16 @@ font-size: 3vw;
     font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
+    text-shadow: 1px 1px 0px black;
     
 }
 #livro{
     background-image: url(../imagens/background002.jpg);
+    background-position: right center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     margin: 0px;
+    background-size: cover;
 }
 footer > p{
     background-color: black;
